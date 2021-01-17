@@ -1,0 +1,8 @@
+"RegistrationViewNavigationTitle" = "Registration";
+"RegistrationViewNameLabel" = "Name:";
+"RegistrationViewEmailLabel" = "Email:";
+"RegistrationViewBirthdateLabel" = "Date of Birth:";
+"RegistrationViewRegisterButton" = "Register";
+
+"ConfirmationViewNavigationTitle" = "Confirmation";
+"ConfirmationViewTitle" = "Thank you for registering";
